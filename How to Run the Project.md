@@ -25,7 +25,7 @@ Add:
 ```env
 POSTGRES_DB=marketdb
 POSTGRES_USER=postgres
-POSTGRES_PASSWORD=postgres
+POSTGRES_PASSWORD=alphapluscapital
 ```
 
 ---
