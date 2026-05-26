@@ -11,6 +11,7 @@ The project was built using FastAPI, Python, PostgreSQL, Docker, and Pydantic va
 FastAPI API → ETL Pipeline → PostgreSQL
 
 **Key Stages of Project**
+
 --API Endpoint--
  - Market Data API
  - GET /v1/market-data
