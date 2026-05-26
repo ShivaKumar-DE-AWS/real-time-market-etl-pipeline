@@ -60,3 +60,26 @@ and:
  - Dropped records
  - Validation failures
  - Execution time
+
+** Project Structure **
+
+project/
+│
+├── api/
+│   ├── main.py
+│   ├── Dockerfile
+│   └── requirements.txt
+│
+├── etl/
+│   ├── pipeline.py
+│   ├── models.py
+│   ├── Dockerfile
+│   └── requirements.txt
+│
+├── db/
+│   └── init.sql
+│
+├── docker-compose.yml
+├── .env.example
+├── .gitignore
+└── README.md
